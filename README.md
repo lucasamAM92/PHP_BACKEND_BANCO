@@ -1,5 +1,5 @@
 
-# Backend PHP <img src="http://www.reweb.com.br/assets/frontend/img/logo_new.png" width="50">
+# Backend PHP <img src="http://www.reweb.com.br/assets/frontend/img/logo_new.png" width="20">
 
 ### Desafio
 
