@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend PHP <img src="http://www.reweb.com.br/assets/frontend/img/logo_new.png" width="50">
 
 ### Desafio
@@ -49,3 +50,6 @@ Você precisa desenvolver um algoritmo para um caixa eletrônico, seguindo os re
 ### Dúvidas
 
 Em caso de dúvida entre em contato pelo e-mail ** ctrindade@reweb.com.br **
+=======
+# PHP_BACKEND_BANCO
+>>>>>>> eb0befb9e4fa56d3307b34b8315b3bae4e86b395
